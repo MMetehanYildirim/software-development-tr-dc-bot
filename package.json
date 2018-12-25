@@ -1,0 +1,28 @@
+{
+  "name": "software-development-tr-dc-bot",
+  "version": "1.0.0",
+  "description": "software-development-tr Dc Bot",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "moment": "^2.23.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ";test1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pars11/software-development-tr-dc-bot.git"
+  },
+  "keywords": [
+    "dc",
+    "bot"
+  ],
+  "author": "pars11 <sametay153@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pars11/software-development-tr-dc-bot/issues"
+  },
+  "homepage": "https://github.com/pars11/software-development-tr-dc-bot#readme"
+}
